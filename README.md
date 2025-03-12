@@ -13,5 +13,5 @@ The Super Store wants to create a sales report for 2015. So that, the owner of t
 - Which Category is contributing maximum to the sales?
 - Highest selling category?
 - Number of orders placed
-- Dashboard Interaction 
+- Dashboard Interaction <a href = "https://github.com/sandhyacherukuri8/Data-Analysis-Dashboard/blob/main/Dashboard_image.png">View Dashboard</a>
 
