@@ -22,5 +22,13 @@ The Super Store wants to create a sales report for 2015. So that, the owner of t
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 ## Dashboard
 ![Dashboard_image](https://github.com/user-attachments/assets/d9f9fea8-79dc-4772-af1f-db85087f9eaa)
+## Project Insight
+- Out of 1952 orders, 1437 oders used the Delivery truck as Ship mode.
+- The states California, Texas and New york are the top 3 profitable states.
+- Least Profit product sub categories are Tables, Rubber Bands and Scissors,trimmers,Rulers.
+- Total profit percentage of super store is 11.64.
+
+## Final Conclusion:
+To improve the sales of Super Store, a strategic marketing plan focused on Sub categories Such as Tables and Rubberband in states Florida and illinoies . This corporate represents as key  customer segment, as they often make significant purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 
 
